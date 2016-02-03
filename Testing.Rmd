@@ -1,0 +1,22 @@
+---
+title: "Testing"
+author: "WRITE YOUR NAME HERE"
+date: "February 3, 2016"
+output: html_document
+---
+
+* Change the name of the author to yours
+* Write `plot(cars)` in the second R code chunk below
+* Knit HTML
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
