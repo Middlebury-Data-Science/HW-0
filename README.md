@@ -32,7 +32,7 @@ And you're done!
 ## Things to Keep in Mind
 
 1. Once you've forked a copy of HW-X, you should only be looking at the GitHub page of your fork marked "YOURGITHUBID/HW-X forked from Middlebury-Data-Science/HW-X" in blue on the top right, and not the original repo marked "Middlebury-Data-Science/HW-X".
-1. You can access a list of all your forked repos by cliking on your picture icon on the top right of any GitHub page -> *Your Profile* -> selecting the *Repositories* tab
+1. You can access all your forked repos by cliking on your picture icon on the top right of any GitHub page -> *Your Profile* -> selecting the *Repositories* tab
 1. RStudio projects are self-contained meaning you can only push file changes to GitHub if you are currently working in that project. If you want to switch between projects, in the top right of RStudio you can toggle between projects by clicking on the arrow. 
 
 
