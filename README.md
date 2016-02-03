@@ -19,8 +19,9 @@ This exercise will guide you through the HW submission process for the semester.
     + Select the *Git* panel. You will see a list the files that were modified.
     + Click the checkboxes of all files to select them for syncing with GitHub and click *Commit*. This stages the files to commit, i.e. to check if GitHub can accept these changes.
     + Add a brief commit message describing your changes and click *Commit*.
+    + Push (upload) your changes to GitHub:
         + If this is your first time pushing changes, go to *Tools* -> *Shell...* -> type `git push` -> type your GitHub login and password -> Close the shell pop-up.  You only need to do this process the first time.
-        + Else, click *Push*. This will push (upload) your changes to GitHub.
+        + Else, click *Push*.
 1. **Submit your homework**:
     + Go to your fork on GitHub and ensure that the files have updated.
     + Click *New pull request*. This is a request that I pull in your changes so I can view them.
