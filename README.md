@@ -7,7 +7,7 @@ You are currently in the "GitHub repository (repo)" for HW-0.
 This exercise will guide you through the HW submission process for the semester. 
 
 1. **Fork (make a copy) of the repo**:
-    a. In the top right corner of the page, click on *Fork*. This forks a copy of this original repo to your own GitHub account.
+    a. In the top right corner of the page, click on *Fork* and select your GitHub account. This forks a copy of this original repo to your GitHub account.
     a. In the top left of the page, you should see "YOURGITHUBID/HW-0 forked from Middlebury-Data-Science/HW-0" in blue. This is your fork (copy) of the repo which you will be editing.
     a. Copy the contents of the HTTPS field to your clipboard
 1. **Create an *RStudio Project* based on this repo**: From RStudio go to *File* -> *New Project...* -> *Version Control* -> *Git* and 
