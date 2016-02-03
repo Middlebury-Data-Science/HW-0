@@ -9,6 +9,9 @@ output: html_document
 * Write `plot(cars)` in the second R code chunk below
 * Knit HTML
 
+Please indicate how much time you spent on this assignment: 
+
+
 ```{r}
 summary(cars)
 ```
