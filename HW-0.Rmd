@@ -1,7 +1,7 @@
 ---
 title: "Testing"
-author: "WRITE YOUR NAME HERE"
-date: "February 3, 2016"
+author: Joy Wood
+date: "February 16, 2016"
 output: html_document
 ---
 
@@ -9,7 +9,7 @@ output: html_document
 * Write `plot(cars)` in the second R code chunk below
 * Knit HTML
 
-Please indicate how much time you spent on this assignment: 
+Please indicate how much time you spent on this assignment: 10 mins
 
 
 ```{r}
@@ -19,6 +19,7 @@ summary(cars)
 You can also embed plots, for example:
 
 ```{r, echo=FALSE}
+plot(cars)
 
 ```
 
