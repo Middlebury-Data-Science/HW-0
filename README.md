@@ -11,8 +11,6 @@ You are currently in the "GitHub repository (repo)" for HW-0.
 1. Click Publish and say yes to any prompts to install packages.
 2. Create an account on [Rpubs.com](http://rpubs.com/)
 3. Give your document a Title and a desired Slug (i.e. webpage address). Note this address.
-4. Go back to RStudio and edit the `HW-0.Rmd` where indicated.
-5. Re-Knit HTML the file and click Republish.
 
 
 
