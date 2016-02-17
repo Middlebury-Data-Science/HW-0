@@ -2,6 +2,20 @@
 
 You are currently in the "GitHub repository (repo)" for HW-0.
 
+## Your Homework
+
+1. Open RStudio and starting in the menu bar, go to File -> New File -> R Markdown...
+1. Give it an arbitrary title and select the HTML (not PDF) output format.
+1. A document `Untitled1` should pop-up. In that panel, click on the arrow next to the Knit PDF button and select Knit HTML.
+1. Give the file a name and save.
+1. Click Publish and say yes to any prompts to install packages.
+2. Create an account on [Rpubs.com](http://rpubs.com/)
+3. Give your document a Title and a desired Slug (i.e. webpage address). Note this address.
+4. Go back to RStudio and edit the `HW-0.Rmd` where indicated.
+5. Re-Knit HTML the file and click Republish.
+
+
+
 ## HW Submission Exercise
 
 This exercise will guide you through the HW submission process for the semester. 
@@ -14,28 +28,28 @@ This exercise will guide you through the HW submission process for the semester.
     1. Paste the clipboard contents into Repository URL
     2. Type `HW-0` at the project directory name.
     3. Select the project subdirectory. I suggest creating a new folder called `MATH216` first and selecting the project to be a subdirectory of that.
-1. **Do your homework**: Edit `HW-0.Rmd` and Knit it
+1. **Do your homework**: Edit `HW-0.Rmd` and Knit it. 
 1. **Push (sync) your changes to GitHub**:
     + Select the *Git* panel. You will see a list the files that were modified.
     + Click the checkboxes of all files to select them for syncing with GitHub and click *Commit*. This stages the files to commit, i.e. to check if GitHub can accept these changes.
     + Add a brief commit message describing your changes and click *Commit*.
     + Push (upload) your changes to GitHub:
-        + If this is your first time pushing changes, go to *Tools* -> *Shell...* -> type `git push` -> type your GitHub login and password -> Close the shell pop-up.  You only need to do this process the first time.
-        + Else, click *Push*.
+        + DO THIS ONLY THE FIRST TIME: Go to *Tools* -> *Shell...* -> type `git push` -> type your GitHub login and password -> Close the shell pop-up.  You only need to do this process the first time.
+        + ALL FUTURE TIMES: Click *Push*.
 1. **Submit your homework**:
     + Go to your fork on GitHub and ensure that the files have updated.
     + Click *New pull request*. This is a request that I pull in your changes so I can view them.
     + Click *Create pull request*
     + In the title field type your name and leave a comment, then click *Create pull request*. I will get an email notification.
 
-And you're done!
-
 
 ## Things to Keep in Mind
 
 1. Once you've forked a copy of HW-X, you should only be looking at the GitHub page of your fork marked "YOURGITHUBID/HW-X forked from Middlebury-Data-Science/HW-X" in blue on the top right, and not the original repo marked "Middlebury-Data-Science/HW-X".
-1. You can access all your forked repos by cliking on your picture icon on the top right of any GitHub page -> *Your Profile* -> selecting the *Repositories* tab
+1. You can access all your forked repos by clicking on your picture icon on the top right of any GitHub page -> *Your Profile* -> selecting the *Repositories* tab
 1. RStudio projects are self-contained meaning you can only push file changes to GitHub if you are currently working in that project. If you want to switch between projects, in the top right of RStudio you can toggle between projects by clicking on the arrow. 
 
 
-    
+## Help! This Isn't Working!
+
+I anticipate this not working for many of you the first time, hence the practice HW-0. If you encounter issues, don't worry and come see me during office hours on Monday or Tuesday.
