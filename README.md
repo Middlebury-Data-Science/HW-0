@@ -8,9 +8,10 @@ You are currently in the "GitHub repository (repo)" for HW-0. For this to work, 
 1. Give it an arbitrary title and select the HTML (not PDF) output format.
 1. A document `Untitled1` should pop-up. In that panel, click on the arrow next to the Knit PDF button and select Knit HTML.
 1. Give the file a name and save.
-1. Click Publish and say yes to any prompts to install packages.
+1. Click Publish on the top right of the resulting page and say yes to any prompts to install packages.
 2. Create an account on [Rpubs.com](http://rpubs.com/)
-3. Give your document a Title and a desired Slug (i.e. webpage address). Note this address.
+3. Give your document a Title and a desired Slug (i.e. webpage address)
+4. Save the URL for the page.
 
 
 
