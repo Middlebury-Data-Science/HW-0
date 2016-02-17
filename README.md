@@ -1,6 +1,6 @@
 # Homework 0
 
-You are currently in the "GitHub repository (repo)" for HW-0. For this to work, you must have installed git and completed all the [SetUp](https://github.com/Middlebury-Data-Science/SetUp), in particular the [RStudio and GitHub](https://github.com/Middlebury-Data-Science/SetUp#rstudio-and-github)
+You are currently in the "GitHub repository (repo)" for HW-0. For this to work, you must have installed git and completed all the [SetUp](https://github.com/Middlebury-Data-Science/SetUp), in particular the [RStudio and GitHub](https://github.com/Middlebury-Data-Science/SetUp#rstudio-and-github) step.
 
 
 
@@ -12,7 +12,7 @@ You are currently in the "GitHub repository (repo)" for HW-0. For this to work, 
 1. Give the file a name and save.
 1. Click Publish on the top right of the resulting page and say yes to any prompts to install packages.
 2. Create an account on [Rpubs.com](http://rpubs.com/)
-3. Give your document a Title and a desired Slug (i.e. webpage address)
+3. Give your document a Title and a desired Slug (i.e. webpage URL)
 4. Save the URL for the page.
 
 
