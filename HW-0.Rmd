@@ -10,5 +10,5 @@ Your tasks!
 * Change the name of the author above to yours
 * Change the date
 * Replace the NHL URL with the URL for the document you just posted to Rpubs **here**: [My RPubs Document](http://rpubs.com/mhusseinmidd/)
-* Click Knit HTML
+* Click Knit HTML blah
 * Please indicate how much time you spent on this assignment:32 minutes
