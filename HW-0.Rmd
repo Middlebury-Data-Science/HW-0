@@ -1,6 +1,6 @@
 ---
 title: "Testing"
-author: "WRITE YOUR NAME HERE"
+author: "Laney Moran"
 date: "February 3, 2016"
 output: html_document
 ---
