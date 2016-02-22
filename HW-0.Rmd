@@ -11,4 +11,4 @@ Your tasks!
 * Change the date
 * Replace the NHL URL with the URL for the document you just posted to Rpubs **here**: [http://rpubs.com/aholtz/hw0]
 * Click Knit HTML
-* Please indicate how much time you spent on this assignment: 
+* Please indicate how much time you spent on this assignment: 25 minutes
