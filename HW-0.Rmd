@@ -1,7 +1,7 @@
 ---
-title: "Testing"
-author: "WRITE YOUR NAME HERE"
-date: "February 3, 2016"
+title: "Shaojin_HW0"
+author: "Shaojin Li"
+date: "February 23, 2016"
 output: html_document
 ---
 
@@ -9,6 +9,6 @@ Your tasks!
 
 * Change the name of the author above to yours
 * Change the date
-* Replace the NHL URL with the URL for the document you just posted to Rpubs **here**: [My RPubs Document](https://www.nhl.com/)
+* Replace the NHL URL with the URL for the document you just posted to Rpubs **here**: [My RPubs Document](http://rpubs.com/ShaojinLi/155456)
 * Click Knit HTML
-* Please indicate how much time you spent on this assignment: 
+* Please indicate how much time you spent on this assignment: 30min
