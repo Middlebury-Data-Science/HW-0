@@ -3,5 +3,5 @@ account: rpubs
 server: rpubs.com
 appId: https://api.rpubs.com/api/v1/document/155294/ff7dac3d47554c25979ad65ddf75e0dc
 bundleId: https://api.rpubs.com/api/v1/document/155294/ff7dac3d47554c25979ad65ddf75e0dc
-url: http://rpubs.com/publish/claim/155294/e27e5586d652470e89758ec6be52a7c6
-when: 1456283305.80451
+url: http://rpubs.com/cmernestein/155294
+when: 1456283481.06098
